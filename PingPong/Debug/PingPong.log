@@ -1,0 +1,38 @@
+﻿  PingPong.cpp
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Process.h(15,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(73,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(73,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(75,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(78,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(79,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(80,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(80,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(85,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(87,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(87,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(91,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(92,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(93,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(93,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(97,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(98,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(99,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(99,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(103,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(104,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(105,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(105,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(111,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(112,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(128,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Object.h(129,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Process.h(15,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(61,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(66,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(80,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(80,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(83,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(83,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\Process.h(102): warning C4715: 'Step': not all control paths return a value
+C:\Users\Admin\Desktop\Programming\PingPong\PingPong\PingPong.cpp(171): warning C4715: 'SDL_main': not all control paths return a value
+  PingPong.vcxproj -> C:\Users\Admin\Desktop\Programming\PingPong\Debug\PingPong.exe
